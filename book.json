@@ -1,0 +1,7 @@
+{
+
+    "plugins": ["styles-less", "anchorjs"],
+    "styles": {
+        "website": "styles/website.less"
+    }
+}
